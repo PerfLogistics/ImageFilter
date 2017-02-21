@@ -1,0 +1,40 @@
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\obj\Debug\ImageFilter.MainForm.resources
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\obj\Debug\ImageFitler.csproj.GenerateResource.Cache
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\obj\Debug\BitmapFilters.exe
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\BitmapFilters.exe.config
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\BitmapFilters.exe
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\BitmapFilters.pdb
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\AForge.Controls.dll
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\AForge.dll
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\AForge.Imaging.dll
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\AForge.MachineLearning.dll
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\AForge.Video.dll
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\AForge.Math.dll
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\AForge.xml
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\AForge.Controls.xml
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\AForge.Imaging.xml
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\AForge.MachineLearning.xml
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\AForge.Video.xml
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\AForge.Math.xml
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\obj\Debug\ImageFilter.Properties.Resources.resources
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\obj\Debug\BitmapFilters.pdb
+D:\ImageFilter\bin\Debug\BitmapFilters.exe.config
+D:\ImageFilter\obj\Debug\BitmapFilters.exe
+D:\ImageFilter\obj\Debug\BitmapFilters.pdb
+D:\ImageFilter\bin\Debug\BitmapFilters.exe
+D:\ImageFilter\bin\Debug\BitmapFilters.pdb
+D:\ImageFilter\bin\Debug\AForge.Math.dll
+D:\ImageFilter\bin\Debug\AForge.xml
+D:\ImageFilter\bin\Debug\AForge.Controls.xml
+D:\ImageFilter\bin\Debug\AForge.Imaging.xml
+D:\ImageFilter\bin\Debug\AForge.Imaging.Formats.xml
+D:\ImageFilter\bin\Debug\AForge.MachineLearning.xml
+D:\ImageFilter\bin\Debug\AForge.Video.xml
+D:\ImageFilter\bin\Debug\AForge.Math.xml
+D:\ImageFilter\obj\Debug\ImageFitler.csprojResolveAssemblyReference.cache
+D:\ImageFilter\obj\Debug\ImageFilter.MainForm.resources
+D:\ImageFilter\obj\Debug\ImageFilter.Properties.Resources.resources
+D:\ImageFilter\obj\Debug\ImageFitler.csproj.GenerateResource.Cache

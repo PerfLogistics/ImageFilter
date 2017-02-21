@@ -1,0 +1,48 @@
+C:\Work\Projects\HowToSamples_Repository\BitmapTransparency\BitmapTransparency\BitmapTransparency\bin\Debug\BitmapFilters.exe.config
+C:\Work\Projects\HowToSamples_Repository\BitmapTransparency\BitmapTransparency\BitmapTransparency\bin\Debug\BitmapFilters.exe
+C:\Work\Projects\HowToSamples_Repository\BitmapTransparency\BitmapTransparency\BitmapTransparency\bin\Debug\BitmapFilters.pdb
+C:\Work\Projects\HowToSamples_Repository\BitmapTransparency\BitmapTransparency\BitmapTransparency\obj\Debug\BitmapFilters.MainForm.resources
+C:\Work\Projects\HowToSamples_Repository\BitmapTransparency\BitmapTransparency\BitmapTransparency\obj\Debug\BitmapFilters.Properties.Resources.resources
+C:\Work\Projects\HowToSamples_Repository\BitmapTransparency\BitmapTransparency\BitmapTransparency\obj\Debug\BitmapFilters.csproj.GenerateResource.Cache
+C:\Work\Projects\HowToSamples_Repository\BitmapTransparency\BitmapTransparency\BitmapTransparency\obj\Debug\BitmapFilters.exe
+C:\Work\Projects\HowToSamples_Repository\BitmapTransparency\BitmapTransparency\BitmapTransparency\obj\Debug\BitmapFilters.pdb
+C:\Work\Projects\HowToSamples_Repository\BitmapFilters\BitmapFilters\BitmapFilters\bin\Debug\BitmapFilters.exe.config
+C:\Work\Projects\HowToSamples_Repository\BitmapFilters\BitmapFilters\BitmapFilters\obj\Debug\BitmapFilters.exe
+C:\Work\Projects\HowToSamples_Repository\BitmapFilters\BitmapFilters\BitmapFilters\obj\Debug\BitmapFilters.pdb
+C:\Work\Projects\HowToSamples_Repository\BitmapFilters\BitmapFilters\BitmapFilters\bin\Debug\BitmapFilters.exe
+C:\Work\Projects\HowToSamples_Repository\BitmapFilters\BitmapFilters\BitmapFilters\bin\Debug\BitmapFilters.pdb
+C:\Work\Projects\HowToSamples_Repository\BitmapFilters\BitmapFilters\BitmapFilters\obj\Debug\BitmapFilters.MainForm.resources
+C:\Work\Projects\HowToSamples_Repository\BitmapFilters\BitmapFilters\BitmapFilters\obj\Debug\BitmapFilters.Properties.Resources.resources
+C:\Work\Projects\HowToSamples_Repository\BitmapFilters\BitmapFilters\BitmapFilters\obj\Debug\BitmapFilters.csproj.GenerateResource.Cache
+C:\Work\Projects\HowToSamples_Repository\BitmapFiltersColorMatrix\BitmapFilters\BitmapFilters\bin\Debug\BitmapFilters.exe.config
+C:\Work\Projects\HowToSamples_Repository\BitmapFiltersColorMatrix\BitmapFilters\BitmapFilters\obj\Debug\BitmapFilters.exe
+C:\Work\Projects\HowToSamples_Repository\BitmapFiltersColorMatrix\BitmapFilters\BitmapFilters\obj\Debug\BitmapFilters.pdb
+C:\Work\Projects\HowToSamples_Repository\BitmapFiltersColorMatrix\BitmapFilters\BitmapFilters\obj\Debug\BitmapFilters.MainForm.resources
+C:\Work\Projects\HowToSamples_Repository\BitmapFiltersColorMatrix\BitmapFilters\BitmapFilters\obj\Debug\BitmapFilters.Properties.Resources.resources
+C:\Work\Projects\HowToSamples_Repository\BitmapFiltersColorMatrix\BitmapFilters\BitmapFilters\obj\Debug\BitmapFilters.csproj.GenerateResource.Cache
+C:\Work\Projects\HowToSamples_Repository\BitmapFiltersColorMatrix\BitmapFilters\BitmapFilters\bin\Debug\BitmapFilters.exe
+C:\Work\Projects\HowToSamples_Repository\BitmapFiltersColorMatrix\BitmapFilters\BitmapFilters\bin\Debug\BitmapFilters.pdb
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\BitmapFilters.exe.config
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\obj\Debug\BitmapFilters.exe
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\obj\Debug\BitmapFilters.pdb
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\BitmapFilters.exe
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\BitmapFilters.pdb
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\obj\Debug\BitmapFilters.csprojResolveAssemblyReference.cache
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\obj\Debug\BitmapFilters.MainForm.resources
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\obj\Debug\BitmapFilters.Properties.Resources.resources
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\obj\Debug\BitmapFilters.csproj.GenerateResource.Cache
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\AForge.dll
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\AForge.Imaging.dll
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\AForge.MachineLearning.dll
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\AForge.Math.dll
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\AForge.Video.dll
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\AForge.xml
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\AForge.Imaging.xml
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\AForge.MachineLearning.xml
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\AForge.Math.xml
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\AForge.Video.xml
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\AForge.Controls.dll
+C:\Users\david.wood\Documents\Visual Studio 2013\Projects\BitmapFilters\bin\Debug\AForge.Controls.xml

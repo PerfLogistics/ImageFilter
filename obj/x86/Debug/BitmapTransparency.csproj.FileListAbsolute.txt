@@ -1,0 +1,7 @@
+C:\Work\Projects\HowToSamples_Repository\BitmapTransparency\BitmapTransparency\BitmapTransparency\bin\Debug\BitmapTransparency.exe
+C:\Work\Projects\HowToSamples_Repository\BitmapTransparency\BitmapTransparency\BitmapTransparency\bin\Debug\BitmapTransparency.pdb
+C:\Work\Projects\HowToSamples_Repository\BitmapTransparency\BitmapTransparency\BitmapTransparency\obj\x86\Debug\BitmapTransparency.Properties.Resources.resources
+C:\Work\Projects\HowToSamples_Repository\BitmapTransparency\BitmapTransparency\BitmapTransparency\obj\x86\Debug\BitmapTransparency.csproj.GenerateResource.Cache
+C:\Work\Projects\HowToSamples_Repository\BitmapTransparency\BitmapTransparency\BitmapTransparency\obj\x86\Debug\BitmapTransparency.exe
+C:\Work\Projects\HowToSamples_Repository\BitmapTransparency\BitmapTransparency\BitmapTransparency\obj\x86\Debug\BitmapTransparency.pdb
+C:\Work\Projects\HowToSamples_Repository\BitmapTransparency\BitmapTransparency\BitmapTransparency\obj\x86\Debug\BitmapTransparency.Form1.resources

@@ -1,0 +1,6 @@
+C:\Work\Projects\HowToSamples_Repository\BitmapTransparency\BitmapTransparency\BitmapTransparency\bin\Release\BitmapFilters.exe.config
+C:\Work\Projects\HowToSamples_Repository\BitmapTransparency\BitmapTransparency\BitmapTransparency\bin\Release\BitmapFilters.exe
+C:\Work\Projects\HowToSamples_Repository\BitmapTransparency\BitmapTransparency\BitmapTransparency\obj\Release\BitmapFilters.MainForm.resources
+C:\Work\Projects\HowToSamples_Repository\BitmapTransparency\BitmapTransparency\BitmapTransparency\obj\Release\BitmapFilters.Properties.Resources.resources
+C:\Work\Projects\HowToSamples_Repository\BitmapTransparency\BitmapTransparency\BitmapTransparency\obj\Release\BitmapFilters.csproj.GenerateResource.Cache
+C:\Work\Projects\HowToSamples_Repository\BitmapTransparency\BitmapTransparency\BitmapTransparency\obj\Release\BitmapFilters.exe
